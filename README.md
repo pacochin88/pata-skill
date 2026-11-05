@@ -59,3 +59,7 @@ Always apply the PATA skill when designing databases, adding features, or starti
 SKILL.md                     ← instructions Claude Code follows
 references/pata-framework.md ← the full PATA framework
 ```
+
+## License
+
+MIT © 2026 Francis Chin. Free to use, copy and adapt, as long as this copyright notice and credit to the PATA framework's author are kept. See [LICENSE](LICENSE).
